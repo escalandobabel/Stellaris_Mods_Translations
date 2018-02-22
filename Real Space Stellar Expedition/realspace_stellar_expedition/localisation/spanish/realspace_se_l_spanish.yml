@@ -1,0 +1,42 @@
+﻿l_spanish:
+  
+  ####################################
+  # Tile Blockers
+  ####################################
+ 
+  tb_ancient_garbage_dump:0 "£blocker  Antiguo vertedero"
+  tb_ancient_garbage_dump_desc:0 "§YAñade investigación en £engineering  a las casillas adyacentes.§!\n\nEstá región está cubierta con pilas y pilas de escombros abandonadas por alguna antigua civilización."
+  tb_geothermal_activity:0 "£blocker  Actividad geotérmica"
+  tb_geothermal_activity_desc:0 "§YAñade £energy  a las casillas adyacentes.§!\n\nEn esta región numerosos géiseres emiten toneladas de agua hirviente y vapor a la superficie."
+  tb_precursor_city:0 "£blocker  Ciudad de los Precursores en ruinas"
+  tb_precursor_city_desc:0 "§YAñade investigación en £society  a las casillas adyacentes.§!\n\nLa región entera está cubierta por las ruinas de una antaño majestuosa ciudad de una civilización largo tiempo desaparecida."
+  tb_anomalous_zone:0 "£blocker  Zona anómala"
+  tb_anomalous_zone_desc:0 "§YAñade investigación en £physics  a las casillas adyacentes.§!\n\nEn esta región se producen extraños fenómenos que deberían ser estudiados."
+  tb_fertile_plains:0 "£blocker  Llanuras fértiles"
+  tb_fertile_plains_desc:0 "§YAñade £food  a las casillas adyacentes.§!\n\nEsta región, que llama la atención por su particular composición ecológica, tiene un efecto beneficioso en el cultivo de las regiones vecinas."
+  tb_natural_mines:0 "£blocker  Minas naturales"
+  tb_natural_mines_desc:0 "§YAñade £minerals  a las casillas adyacentes.§!\n\nEn esta región hay gran cantidad de cuevas y minas a cielo abierto con depósitos minerales."
+  
+  ####################################
+  # Planet Edicts
+  ####################################
+  
+  edict_protective_equipment:0 "Equipos protectores"
+  edict_protective_equipment_desc:0 "Este edicto consiste en una paquete de medidas del gobierno para la provisión de equipo protector a los colonos de mundos con condiciones adversas de habitabilidad."
+  
+  ####################################
+  # Tooltip Massages
+  ####################################
+  
+  has_dangerous_wildlife:0 "Tiene el modificador de planeta: $dangerous_wildlife$"
+  has_toxic_atmosphere:0 "Tiene el modificador de planeta: $toxic_atmosphere$"
+  has_greenhouse_world:0 "Tiene el modificador de planeta $greenhouse_world$"
+  has_red_giant:0 "Tiene el modificador de planeta $red_giant$"
+  has_yellow_giant:0 "Tiene el modificador de planeta $yellow_giant$"
+  has_blue_giant:0 "Tiene el modificador de planeta $blue_giant$"
+  has_scorched_world:0 "Tiene el modificador de planeta $scorched_world$"
+  
+  ### Event Deposits
+  d_realspace1_society_physics_deposit:0 "£society  +4  £physics  +3\n"
+  d_realspace1_energy_engineering_deposit:0 "£energy +5  £engineering  +3\n"
+  d_realspace1_energy_minerals_deposit:0 "£energy  +2  £minerals  +4\n"
