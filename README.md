@@ -15,7 +15,7 @@
 
 __Instalación:__
 
-Cada mod tiene su propio directorio dentro de la rama principal "master", y dentro de él se encuentran los archivos de traducción con la estructura de carpetas adecuada. Simplemente descarga el zip que necesitas, descomprímelo y añade la carpeta resultante al zip del mod.
+Cada mod tiene su propio directorio dentro de la rama principal "master", y dentro de él se encuentran los archivos de traducción con la estructura de carpetas adecuada en un archivo comprimido. En el directorio se encuentran también los archivos sueltos para consultas u otros propósitos. Simplemente descarga el zip que necesitas, descomprímelo y añade la carpeta resultante al zip del mod.
 
 --------------------------------------
 --------------------------------------
