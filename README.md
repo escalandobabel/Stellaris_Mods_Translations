@@ -4,6 +4,9 @@
 \* __*Las traducciones son originales y están hechas con el simple propósito de ser útiles para los jugadores.*__
 
 \* __*En algunos casos las traducciones de este repositorio están ya incluidas en la versión del mod del _Steam Workshop_. Asegúrate de que no es así antes de descargar nada, te ahorrarás trabajo.*__
+
+\* __*El español utilizado en las traducciones es la variante de España.*__
+
 #### ========== ####
 ## Listado de mods traducidos: ##
 
